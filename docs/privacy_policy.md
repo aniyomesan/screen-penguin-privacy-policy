@@ -63,7 +63,7 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ### 11. Contact
 
-For privacy inquiries, please use the developer contact listed on the App Store product page.
+For privacy inquiries, please contact us at aniyome277@gmail.com.
 
 ---
 
@@ -126,7 +126,7 @@ ScreenPenguin（以下「本アプリ」）は、iPhone上のスクリーンシ�
 
 ### 11. お問い合わせ
 
-プライバシーに関するお問い合わせは、App Storeの商品ページに記載された開発者連絡先をご利用ください。
+プライバシーに関するお問い合わせは、aniyome277@gmail.com までご連絡ください。
 
 ---
 
@@ -189,7 +189,7 @@ ScreenPenguin(이하 "앱")은 iPhone에서 스크린샷 정리를 돕는 앱입
 
 ### 11. 문의
 
-개인정보 관련 문의는 App Store 제품 페이지의 개발자 연락처를 이용해 주세요.
+개인정보 관련 문의는 aniyome277@gmail.com 으로 연락해 주세요.
 
 ---
 
@@ -252,7 +252,7 @@ ScreenPenguin（以下简称“本应用”）用于帮助用户在 iPhone 上�
 
 ### 11. 联系方式
 
-隐私相关问题请通过 App Store 产品页中的开发者联系方式联系。
+如有隐私相关问题，请联系 aniyome277@gmail.com。
 
 ---
 
@@ -315,4 +315,4 @@ ScreenPenguin（以下稱「本 App」）用於協助使用者在 iPhone 上整�
 
 ### 11. 聯絡方式
 
-如有隱私相關問題，請透過 App Store 產品頁上的開發者聯絡方式與我們聯繫。
+如有隱私相關問題，請聯絡 aniyome277@gmail.com。
